@@ -3,6 +3,7 @@
 <img width="2434" height="1361" alt="image" src="https://github.com/user-attachments/assets/14f6d2d4-3003-4543-85f2-d66fe215c8f9" />
 
 This dashboard analyses Adidas retail performance across channels, products, retailers and geographies, with a timeline spanning January 2020 to July 2021. Core headline KPIs show 2.0M orders, $900M revenue, $332M profit and $568M cost, giving a ~36.9% gross margin.
+
 Dashboard view: https://app.powerbi.com/view?r=eyJrIjoiMTRiYzk5OTktNzZlOC00MTBlLThkYTYtZDNlODIyMDAxYTYxIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D
 
 # Project Overview
